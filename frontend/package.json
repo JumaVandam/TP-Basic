@@ -1,14 +1,14 @@
 {
-  "name": "tp-standart",
+  "name": "tp-standard",
   "version": "0.0.1",
-  "description": "tp-standart",
-  "productName": "tp-standart",
+  "description": "tp-standard",
+  "productName": "tp-standard",
   "author": "Zhumabek Abdrakhmanov <juma18x37@gamil.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
     "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
-    "test": "echo \"No test specified\" && exit 0"
+    "start:dev": "quasar dev"
   },
   "dependencies": {
     "axios": "^0.21.1",
