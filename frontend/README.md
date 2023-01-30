@@ -1,6 +1,6 @@
-# tp-standard (tp-standard)
+# TP Standard (TP Standard)
 
-tp-standard
+TP Standard
 
 ## Install the dependencies
 
